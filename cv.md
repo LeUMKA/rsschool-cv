@@ -60,7 +60,7 @@ Increased the performance and efficiency of the application, optimizing data loa
 
 ## Education
 
-*RS-school frontend development*
+*RS-school frontend development* </br>
 *Elbrus-bootcamp frontend development*
 
 ---
