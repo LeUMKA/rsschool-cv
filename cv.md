@@ -3,7 +3,7 @@
 📧 Email: lenaumka21@gmail.com  
 📱 Phone: +7(918) 115-44-47  
 🌐 GitHub: [github.com/LeUMKA](https://github.com/leumka)  
-🔗 LinkedIn: [linkedin.com/in/leumka](https://www.linkedin.com/in/leumka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leumka)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeUMKA)
 
 
