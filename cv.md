@@ -37,7 +37,7 @@
 *Mar 2023 - Oct 2023 · 7 months*  
 *Russia · Remote*
 
-I worked as a software developer for a platform that provides fundamental analysis on the cryptocurrency market. Our platform was inspired by some popular cryptocurrency platforms such as CoinGecko, and we added some features that allowed our customers to monetize their analysis. My personal achievement at the project was collaborating inner databases with outer REST API. I implemented features that enabled us to show automatically updated prices in charts in real time, as well as sorting and filtering data based on various criteria. I learned a lot about cryptocurrency technologies, data analysis, and web development during this project.
+I worked as a software developer for a platform that provides fundamental analysis on the cryptocurrency market. Our platform was inspired by some popular cryptocurrency platforms such as CoinGecko. My personal achievement at the project was collaborating inner databases with outer REST API. I implemented features that enabled us to show automatically updated prices in charts, as well as sorting and filtering data based on various criteria. I learned a lot about cryptocurrency technologies, data analysis, and web development during this project.
 
 **Skills:** React.js · TypeScript · JavaScript · Express.js · Sequelize · PostgreSQL · Redux.js · Node.js
 
@@ -46,13 +46,13 @@ I worked as a software developer for a platform that provides fundamental analys
 *Jun 2020 - Mar 2023 · 2 years 9 months*  
 *Albania · Remote*
 
-Refactored the code of an existing web application for customer relationship management (CRM) within the company, using React, TypeScript, Express, and Sequelize.
+:heavy_check_mark: Refactored the code of an existing web application for customer relationship management (CRM) within the company, using React, TypeScript, Express, and Sequelize.
 
-Improved the readability, structure, and quality of the code, as well as fixed bugs and eliminated vulnerabilities.
+:heavy_check_mark: Improved the readability, structure, and quality of the code, as well as fixed bugs and eliminated vulnerabilities.
 
-Implemented functionality for enabling real-time interaction of company employees using Socket.io. Developed an interface for exchanging messages and files between employees of different departments and branches.
+:heavy_check_mark: Implemented functionality for enabling real-time interaction of company employees using Socket.io. Developed an interface for exchanging messages and files between employees of different departments and branches.
 
-Increased the performance and efficiency of the application, optimizing data loading, caching, and asynchronous operations. The application became more productive, which allowed including all departments in the interaction of the common workspace.
+:heavy_check_mark: Increased the performance and efficiency of the application, optimizing data loading, caching, and asynchronous operations. The application became more productive, which allowed including all departments in the interaction of the common workspace.
 
 **Skills:** React.js · TypeScript · JavaScript · Express.js · Sequelize · PostgreSQL · Redux.js · Node.js
 
