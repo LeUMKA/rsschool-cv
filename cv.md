@@ -1,8 +1,8 @@
 # **Elena Naumenko**
 
-<div style="align:center;">
-  <img src="https://media.licdn.com/dms/image/D4D03AQFNCpw60yLJcQ/profile-displayphoto-shrink_400_400/0/1697902368137?e=1705536000&v=beta&t=uZg063Ee7ffqGrTR3ngbxRfYFEthaiFBJBUZw5JuVjE" alt="LeUMKA" style="width:150px; height:150px; border-radius:50%;">
-</div> 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D03AQFNCpw60yLJcQ/profile-displayphoto-shrink_400_400/0/1697902368137?e=1705536000&v=beta&t=uZg063Ee7ffqGrTR3ngbxRfYFEthaiFBJBUZw5JuVjE" alt="LeUMKA" width="150px" height="150px" border-radius="50%">
+</p> 
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenaumka21@gmail.com) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+79181154447)
