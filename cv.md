@@ -1,4 +1,4 @@
-<p align="center"><span font-size="larger" color="blue">Elena Naumenko</span></p>
+<p align="center"><span font-size="25px" style="color:blue">Elena Naumenko</span></p>
 
 
 <p align="center">
