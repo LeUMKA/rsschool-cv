@@ -1,4 +1,4 @@
-# **Elena Naumenko**
+<h1><span align="center">Elena Naumenko</span></h1>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D4D03AQFNCpw60yLJcQ/profile-displayphoto-shrink_400_400/0/1697902368137?e=1705536000&v=beta&t=uZg063Ee7ffqGrTR3ngbxRfYFEthaiFBJBUZw5JuVjE" alt="LeUMKA" width="150px" height="150px" border-radius="8px">
