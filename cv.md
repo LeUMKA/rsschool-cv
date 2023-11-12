@@ -1,4 +1,5 @@
-# <span style="font-size:larger; color: blue">**Elena Naumenko**</span>
+# **Elena Naumenko**
+![Альтернативный текст](https://media.licdn.com/dms/image/D4D03AQFNCpw60yLJcQ/profile-displayphoto-shrink_400_400/0/1697902368137?e=1705536000&v=beta&t=uZg063Ee7ffqGrTR3ngbxRfYFEthaiFBJBUZw5JuVjE)
  
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenaumka21@gmail.com) 
@@ -14,7 +15,7 @@
 
 ### Frontend Developer  
 **CoinUp · Full-time**  
-*Jun 2023 - Present · 6 mos*  
+*Mar 2023 - Oct 2023 · 7 months*  
 *Russia · Remote*
 
 I worked as a software developer for a platform that provides fundamental analysis on the cryptocurrency market. Our platform was inspired by some popular cryptocurrency platforms such as CoinGecko, and we added some features that allowed our customers to monetize their analysis. My personal achievement at the project was collaborating inner databases with outer REST API. I implemented features that enabled us to show automatically updated prices in charts in real time, as well as sorting and filtering data based on various criteria. I learned a lot about cryptocurrency technologies, data analysis, and web development during this project.
@@ -23,7 +24,7 @@ I worked as a software developer for a platform that provides fundamental analys
 
 ### Frontend Developer  
 **RoyalEagle · Full-time**  
-*Jun 2020 - Jun 2023 · 3 yrs 1 mo*  
+*Jun 2020 - Mar 2023 · 2 years 9 months*  
 *Albania · Remote*
 
 Refactored the code of an existing web application for customer relationship management (CRM) within the company, using React, TypeScript, Express, and Sequelize.
