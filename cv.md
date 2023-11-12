@@ -40,7 +40,8 @@ Increased the performance and efficiency of the application, optimizing data loa
 
 ## Education
 
-*TPSU computer science*
+*RS-school frontend development*
+*Elbrus-bootcamp frontend development*
 
 ---
 
