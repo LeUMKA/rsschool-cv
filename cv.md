@@ -37,7 +37,7 @@
 *Mar 2023 - Oct 2023 · 7 months*  
 *Russia · Remote*
 
-I worked as a software developer for a platform that provides fundamental analysis on the cryptocurrency market. Our platform was inspired by some popular cryptocurrency platforms such as CoinGecko, and we added some features that allowed our customers to monetize their analysis. My personal achievement at the project was collaborating inner databases with outer REST API. I implemented features that enabled us to show automatically updated prices in charts in real time, as well as sorting and filtering data based on various criteria. I learned a lot about cryptocurrency technologies, data analysis, and web development during this project.
+I worked as a software developer for a platform that provides fundamental analysis on the cryptocurrency market. Our platform was inspired by some popular cryptocurrency platforms such as CoinGecko. My personal achievement at the project was collaborating inner databases with outer REST API. I implemented features that enabled us to show automatically updated prices in charts, as well as sorting and filtering data based on various criteria. I learned a lot about cryptocurrency technologies, data analysis, and web development during this project.
 
 **Skills:** React.js · TypeScript · JavaScript · Express.js · Sequelize · PostgreSQL · Redux.js · Node.js
 
